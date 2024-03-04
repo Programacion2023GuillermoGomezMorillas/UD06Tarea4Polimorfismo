@@ -16,7 +16,7 @@ b. Las asignaciones correctas son la primera y la tercera. La primera se crea a 
 
 ### Ejercicio 4
 
-| Si, es de padre a hijo | Si, es de padre a hijo y a hijo |
-| No, son hermanos | No, es de hijo a padre | 
-| No, es de hijo a padre | Si, es de padre a hijo | 
-| Si, es de padre a hijo | No, son hermanos | 
+| Si, es de padre a hijo || Si, es de padre a hijo y a hijo |
+| No, son hermanos || No, es de hijo a padre | 
+| No, es de hijo a padre || Si, es de padre a hijo | 
+| Si, es de padre a hijo || No, son hermanos | 
